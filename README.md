@@ -1,5 +1,9 @@
 # the gossip project (thp, week 5, day 1)
 
+## Production link
+
+https://intense-headland-51484.herokuapp.com/
+
 ### how to use
 
 1. git clone the repository to your computer
